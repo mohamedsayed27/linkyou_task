@@ -2,7 +2,7 @@
 
 Below are the details of the implementation:
 
-1- Splash Screen: The application starts with a splash screen to enhance user experience and provide a seamless introduction to the app.
+1- Splash Screen: The application starts with a splash screen with link you branding logo.
 
 ![splash](https://github.com/user-attachments/assets/9a4e5df9-e755-4808-ab1a-9426b11847bd)
 
@@ -11,11 +11,11 @@ Below are the details of the implementation:
 
 ![googlesignaccount](https://github.com/user-attachments/assets/836d1207-51e8-4cfc-8ade-f26f86068c34)
 
-3- User Creation Dialog: Post-login, a dialog box prompts the user to create a profile if one does not already exist. This step ensures that all necessary user information is collected.
+3- User Creation Dialog: Dialog of User Creation.
 
 ![dialog](https://github.com/user-attachments/assets/4e52402e-0232-492f-aefa-c6408d8e27c6)
 
-4- All Users Screen: Upon successful user creation, the app navigates to an "All Users" screen. This screen displays a paginated list of all users, allowing for efficient data handling and improved performance.
+4- All Users Screen: Upon successful user creation endpoint the app navigates to Screen that shows A list of Users
 
 ![allUsers](https://github.com/user-attachments/assets/9c891999-5391-4dfe-9fcd-6d14b317e3f7)
 
