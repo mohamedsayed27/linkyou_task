@@ -26,6 +26,7 @@ class UserDetailsContainer extends StatelessWidget {
         ),
       ),
       child: Row(
+
         children: [
           Container(
             height: 56.h,
