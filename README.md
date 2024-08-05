@@ -1,17 +1,13 @@
 # linkyou_task
 
-A new Flutter project.
+Below are the details of the implementation:
 
-## Getting Started
+1- Splash Screen: The application starts with a splash screen to enhance user experience and provide a seamless introduction to the app.
 
-This project is a starting point for a Flutter application.
+2- Google Login Screen: After the splash screen, users are directed to a Google login screen where Firebase Auth is used for authentication. This ensures secure and efficient user login.
 
-A few resources to get you started if this is your first Flutter project:
+3- User Creation Dialog: Post-login, a dialog box prompts the user to create a profile if one does not already exist. This step ensures that all necessary user information is collected.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+4- All Users Screen: Upon successful user creation, the app navigates to an "All Users" screen. This screen displays a paginated list of all users, allowing for efficient data handling and improved performance.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![Screenshot 2024-07-29 at 5 56 18 PM](https://github.com/user-attachments/assets/13184658-9f20-466c-9b93-0a669db9a9a0)
+For the business logic of the application, I utilized Cubit, which facilitates state management and ensures a clean separation of concerns, making the application more maintainable and scalable.
