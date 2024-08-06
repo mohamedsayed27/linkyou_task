@@ -2,7 +2,7 @@
 
 Below are the details of the implementation:
 
-1- Splash Screen: The application starts with a splash screen with link you branding logo.
+1- Splash Screen: The application starts with a splash screen with linkyou.ca logo .
 
 ![splash](https://github.com/user-attachments/assets/9a4e5df9-e755-4808-ab1a-9426b11847bd)
 
