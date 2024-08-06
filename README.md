@@ -15,7 +15,7 @@ Below are the details of the implementation:
 
 ![dialog](https://github.com/user-attachments/assets/4e52402e-0232-492f-aefa-c6408d8e27c6)
 
-4- All Users Screen: Upon successful user creation endpoint the app navigates to Screen that shows A list of Users
+4- All Users Screen: Upon successful user creation endpoint the app navigates to Screen that shows A list of Paginated Users
 
 ![allUsers](https://github.com/user-attachments/assets/9c891999-5391-4dfe-9fcd-6d14b317e3f7)
 
